@@ -30,16 +30,4 @@ streamlit run app.py
 
 Deploy no Render
 -----------------
-Crie um serviço web no Render ligado ao repositório GitHub e use o comando de build:
-
-```
-pip install --upgrade pip && pip install -r requirements.txt
-```
-
-Start Command:
-
-```
-streamlit run app.py
-```
-
-Adicione a URL do app no Render aqui quando disponível.
+https://vehicle-listings-eda-and-streamlit-app.onrender.com
